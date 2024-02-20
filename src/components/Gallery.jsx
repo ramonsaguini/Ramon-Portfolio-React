@@ -3,7 +3,7 @@ import React from 'react';
 const photos = [
   {
     src: "src/assets/images/calculator.png",
-    alt: "Imagem 1",
+    alt: "image 1",
     name: "Calculator App",
     description: 'Calculator online',
     live: 'https://ramonsaguini.github.io/Calculator/',
@@ -11,7 +11,7 @@ const photos = [
   },
   {
     src: "src/assets/images/age-check.png",
-    alt: "Imagem 2",
+    alt: "Image 2",
     name: "Age Check App",
     description: 'Check your Age and how you like',
     live: 'https://ramonsaguini.github.io/ageCheck/',
@@ -19,7 +19,7 @@ const photos = [
   },
   {
     src: "src/assets/images/quizApp.png",
-    alt: "Imagem 3",
+    alt: "Image 3",
     name: "Quiz App",
     description: 'Quiz game with some questions to answer',
     live: 'https://quiz-game-eight-gamma.vercel.app/',
@@ -27,7 +27,7 @@ const photos = [
   },
   {
     src: "src/assets/images/travel-california.png",
-    alt: "Imagem 4",
+    alt: "Image 4",
     name: "Travel California",
     description: 'Travel agency for the state of California/USA',
     live: 'https://ramonsaguini.github.io/travel-california/',
@@ -35,7 +35,7 @@ const photos = [
   },
   {
     src: "src/assets/images/site-samanta.png",
-    alt: "Imagem 5",
+    alt: "Image 5",
     name: "Samanta's Site",
     description: 'Hair salon website',
     live: 'https://site-88uh6wqe1-ramonsaguini.vercel.app/',
