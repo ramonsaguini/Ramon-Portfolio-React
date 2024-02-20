@@ -1,0 +1,11 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+body{
+  background-color: rgb(67, 6, 211);
+}
+h1, h2, h3, p,strong, li{
+  color: aliceblue;
+}
+img{
+  border-radius: 20px;
+  box-shadow: 2px 5px 5px white;
+}
