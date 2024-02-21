@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ramonsaguini.github.io/Ramon-Portfolio-React",
   
   "name": "ramon-s-portfolio-in-react",
   
@@ -22,9 +23,11 @@
     
   "preview": "vite preview",
 
-  "homepage": "https://ramonsaguini.github.io/Ramon-Portfolio-React",
+  "predeploy": "npm run build ",
 
-  "deploy": "npm run build && gh-pages -d dist"
+  "deploy": "gh-pages -d dist",
+
+  "homepage": "https://ramonsaguini.github.io/Ramon-Portfolio-React"
     
   },
   
