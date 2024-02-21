@@ -2,7 +2,7 @@ import React from 'react';
 
 const photos = [
   {
-    src: "../src/assets/images/calculator.png",
+    src: "../assets/images/calculator.png",
     alt: "image 1",
     name: "Calculator App",
     description: 'Calculator online',
@@ -10,7 +10,7 @@ const photos = [
     repo: 'https://github.com/ramonsaguini/Calculator',
   },
   {
-    src: "./src/assets/images/age-check.png",
+    src: "./assets/images/age-check.png",
     alt: "Image 2",
     name: "Age Check App",
     description: 'Check your Age and how you like',
@@ -18,7 +18,7 @@ const photos = [
     repo: 'https://github.com/ramonsaguini/ageCheck',
   },
   {
-    src: "./src/assets/images/quizApp.png",
+    src: "../../assets/images/quizApp.png",
     alt: "Image 3",
     name: "Quiz App",
     description: 'Quiz game with some questions to answer',
