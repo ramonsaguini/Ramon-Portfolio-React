@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! This portfolio showcases my projects, skills, and contact information.
 
+![fullscreen](./public/images/fullscreen.png)
+
 ## About
 
 This portfolio is developed to showcase my work as a Front-End Web developer. It includes a gallery of my projects, an about me section, my skills, and contact information.

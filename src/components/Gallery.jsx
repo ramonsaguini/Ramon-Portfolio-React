@@ -2,7 +2,7 @@ import React from 'react';
 
 const photos = [
   {
-    src: "src/assets/images/calculator.png",
+    src: "/images/calculator.png",
     alt: "image 1",
     name: "Calculator App",
     description: 'Calculator online',
@@ -10,7 +10,7 @@ const photos = [
     repo: 'https://github.com/ramonsaguini/Calculator',
   },
   {
-    src: "./assets/images/age-check.png",
+    src: "images/age-check.png",
     alt: "Image 2",
     name: "Age Check App",
     description: 'Check your Age and how you like',
@@ -18,7 +18,7 @@ const photos = [
     repo: 'https://github.com/ramonsaguini/ageCheck',
   },
   {
-    src: "../../assets/images/quizApp.png",
+    src: "images/quizApp.png",
     alt: "Image 3",
     name: "Quiz App",
     description: 'Quiz game with some questions to answer',
@@ -26,7 +26,7 @@ const photos = [
     repo: 'https://github.com/ramonsaguini/quizGame',
   },
   {
-    src: "./src/assets/images/travel-california.png",
+    src: "images/travel-california.png",
     alt: "Image 4",
     name: "Travel California",
     description: 'Travel agency for the state of California/USA',
@@ -34,7 +34,7 @@ const photos = [
     repo: 'https://github.com/ramonsaguini/travel-california',
   },
   {
-    src: "./src/assets/images/site-samanta.png",
+    src: "images/site-samanta.png",
     alt: "Image 5",
     name: "Samanta's Site",
     description: 'Hair salon website',

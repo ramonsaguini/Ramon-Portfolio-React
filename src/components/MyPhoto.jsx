@@ -4,7 +4,7 @@ const MyPhoto = () => {
   return (
     <aside className="container">
       <div className="text-center"> {/* Centering content */}
-        <img src="src/assets/images/ramon.jpg" alt="Ramon's Picture" className="img-fluid mt-5" />
+        <img src="images/ramon.jpg" alt="Ramon's Picture" className="img-fluid mt-5" />
         
         {/* Text */}
         <h2 className="mt-3">Ramon Saguini de Andrade!</h2>
