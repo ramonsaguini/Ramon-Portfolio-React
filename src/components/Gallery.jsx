@@ -2,7 +2,7 @@ import React from 'react';
 
 const photos = [
   {
-    src: "../assets/images/calculator.png",
+    src: "src/assets/images/calculator.png",
     alt: "image 1",
     name: "Calculator App",
     description: 'Calculator online',
